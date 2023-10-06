@@ -26,21 +26,21 @@ user: sanwar@nstu.edu.bd
 pass: sn
 
 Teacher
-iftekhar.iit@nstu.edu.bd
-12345
+user: iftekhar.iit@nstu.edu.bd
+pass: 12345
 
 Section Officer
 user: giash.uddin@nstu.edu.bd
 pass: gias
 
 Dept. Head
-pharma.salim@nstu.edu.bd
-head
+user: pharma.salim@nstu.edu.bd
+pass: head
 
 Registrar 
-registrar@nstu.edu.bd
-rgt
+user: registrar@nstu.edu.bd
+pass: rgt
 
 VC Office
-vc@nstu.edu.bd
-vc
+user: vc@nstu.edu.bd
+pass: vc
