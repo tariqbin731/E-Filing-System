@@ -16,9 +16,9 @@ Download Source Code "E-Filing-System"
 
 8. Create a database with name odss_db
 
-6. Import odss_db.sql file (given inside the zip package in sql folder)
+9. Import odss_db.sql file (given inside the zip package in sql folder)
 
-7.Run the script http:/document_sharing
+10.Run the script http:/document_sharing
 **LOGIN DETAILS** 
 
 Admin
